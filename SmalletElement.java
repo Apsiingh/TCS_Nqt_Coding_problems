@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * TCSNqt
- */
 
 //  Find the smallest element in an array
 
@@ -18,7 +15,7 @@ import java.util.*;
 
 
 
-public class Nqt {
+public class SmalletElement {
 
     public static void main(String[] args) {
         
