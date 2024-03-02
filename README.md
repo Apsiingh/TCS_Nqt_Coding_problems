@@ -12,8 +12,8 @@ This post contains all popular and most frequents coding questions asked in the 
 
 ## Table of Contents
  -   [x] Problems on Arrays 
- - Problems on Numbers
- - Problems on Number System
+ -   [x]Problems on Numbers
+ -   [x]Problems on Number System
  - Problems on Sorting
  - Problems on String
 
